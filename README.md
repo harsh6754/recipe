@@ -1,2 +1,2 @@
-# recipe
-Find Your Favourite Food Recipe here
+# resipy
+A  Recipe listing app
